@@ -146,6 +146,7 @@ footer p {
 }
 
 #our-sponsers {
+    width: 100%;
     color: rgba(0, 0, 0, 0.6);
     font-size: 30px;
     text-shadow: 2px 2px black;
